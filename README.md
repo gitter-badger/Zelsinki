@@ -28,11 +28,10 @@ This project could grow from very small and simple solution to complex system ju
 
 ### Scale
 
-With growing granularity of emula, architectural solutions that were actual for previous iteration might be completely
-useless in a new world. This is another problem that will be solved again and again.
+With growing granularity of simulation, architectural solutions that were actual for previous iteration might be completely
+useless in a new world. This is another problem that will be solved again and again, in agile manner.
 
 ### History
-
 Each big decision that was made by AI should be written down for future analysis through HTTP API. Results might be surprising.
 
 ### Real Time
@@ -41,7 +40,7 @@ Metrics and monitoring are important parts of every application. They should be 
 
 ## How to contribute
 
-Current state of Zelsinki city emulator is planning. We should discuss our first steps, define goals we want to achieve using knowledge and ideas
+Current state of Zelsinki city simulator is a planning session. We should discuss our first steps, define goals we want to achieve using knowledge and ideas
 we have. [Github Issues](https://github.com/Scalando/Zelsinki/issues) could be a best place to start or join to ongoing discussion. Feel free to create an issue
 and describe your idea, prepare your arguments for possible challengers.
 
