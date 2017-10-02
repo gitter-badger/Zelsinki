@@ -12,7 +12,6 @@ Have as many inhabitants as possible in a one year (365 days).
 
 ## Entities
 ### City
-Have as many inhabitants as possible in a one year (365 days).
 The main object in a simulation. Each time user run simulator, a new city created. The city includes all of the other entities as its’ parameters. Let's imagine, that by default each city has a storehouse, where you can find all resources that currently available in the City.
 
 ### Person(People)
